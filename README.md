@@ -1,10 +1,3 @@
-# Side-Projects
-Projects I worked on purely motivated by my self-interest.
-
-I wouldn't expect any pattern to these to be honest.
-
-# Regarding the CS50 Folder
-
 CS50 is an OpenCourseWare about computer science offered by Harvard University (offered here: https://cs50.harvard.edu/x/2020/).
 
 For some problem sets, starter code is given to the individual, giving them the foundation to work their way towards completing a specific assignment. However, problem sets included within this folder will only consist of assignments where the individual will *have to work from the ground up.*
